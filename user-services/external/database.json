@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Fathoni",
+    "password": "fathoni",
+    "database": "userservices",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Fathoni",
+    "password": "fathoni",
+    "database": "userservices",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Fathoni",
+    "password": "fathoni",
+    "database": "userservices",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
